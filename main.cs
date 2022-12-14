@@ -43,5 +43,5 @@ class Program
         counter = 0;
 
         Console.WriteLine("\nDone.");
-  }
+    }
 }
